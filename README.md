@@ -1,6 +1,13 @@
+> 使用`global-hook-store`,`immer`完成hooks store 最佳实践!
+
+```
+npm i -S global-hook-store
+npm i -S immer
+```
 
 ## use Store
-```
+```js
+// ./store.js
 import useStore, { createStore, useLocalStore } from "global-hook-store";
 import produce from "immer";
 
@@ -58,17 +65,13 @@ console.log(counterStore)
 ```
 
 ## store-Test
-```
+```js
 import React, { useEffect } from "react";
 import useStore, { createStore, useLocalStore } from "global-hook-store";
 import counterStore from "./store";
 
-
-
 const Counter = () => {
-
 	console.log(useStore(counterStore))
-
 	const {
 		state: { count, age, name, list },
 		actions
