@@ -5,6 +5,11 @@ npm i -S global-hook-store
 npm i -S immer
 ```
 
+## 更多选择
+- [react-hooks-redux](https://github.com/ymzuiku/react-hooks-redux)
+- [react-consumer](https://github.com/ymzuiku/react-consumer)
+- [react-ob](https://github.com/ymzuiku/react-ob)
+
 ## use Store
 ```js
 // ./store.js
