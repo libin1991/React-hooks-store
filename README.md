@@ -6,11 +6,12 @@ npm i -S immer
 ```
 
 ## 更多选择
+- [global-hook-store](https://github.com/richarddd/global-hook-store)
 - [react-hooks-redux](https://github.com/ymzuiku/react-hooks-redux)
 - [react-consumer](https://github.com/ymzuiku/react-consumer)
 - [react-ob](https://github.com/ymzuiku/react-ob)
 - [stamen](https://github.com/forsigner/stamen)
-- 
+
 ## use Store
 ```js
 // ./store.js
