@@ -11,7 +11,7 @@ npm i -S immer
 - [react-consumer](https://github.com/ymzuiku/react-consumer)
 - [react-ob](https://github.com/ymzuiku/react-ob)
 - [stamen](https://github.com/forsigner/stamen)
-
+- [react-store](https://github.com/savage181855/react-store)
 ## use Store
 ```js
 // ./store.js
