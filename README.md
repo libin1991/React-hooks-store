@@ -12,6 +12,7 @@ npm i -S immer
 - [react-ob](https://github.com/ymzuiku/react-ob)
 - [stamen](https://github.com/forsigner/stamen)
 - [react-store](https://github.com/savage181855/react-store)
+- [use-state-with-callback](https://github.com/open-FE/use-state-with-callback)
 ## use Store
 ```js
 // ./store.js
