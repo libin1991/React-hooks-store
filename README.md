@@ -13,6 +13,7 @@ npm i -S immer
 - [stamen](https://github.com/forsigner/stamen)
 - [react-store](https://github.com/savage181855/react-store)
 - [use-state-with-callback](https://github.com/open-FE/use-state-with-callback)
+- [jotai](https://jotai.org/)
 ## use Store
 ```js
 // ./store.js
