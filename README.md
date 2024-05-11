@@ -14,6 +14,7 @@ npm i -S immer
 - [react-store](https://github.com/savage181855/react-store)
 - [use-state-with-callback](https://github.com/open-FE/use-state-with-callback)
 - [jotai](https://jotai.org/)
+- [resy](https://github.com/lsbFlying/resy)
 ## use Store
 ```js
 // ./store.js
